@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261123/ihfanjalaludin-bit/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 [![reward](https://make.fun/badge/news-image-20261123/ihfanjalaludin-bit/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
-A deterministic Python program that draws a one-page newspaper front page summing up Monday 23 November 2026's world news — the COP31 collapse, the Gulf/Hormuz escalation, BepiColombo's arrival at Mercury, and more — as a single 1024×1024 PNG. Fonts are vendored in the repo; no network is needed at run time.
+A one-page newspaper front page summing up 23 November 2026's world news as a single 1024x1024 PNG, drawn with pure Python standard library: hand-written TrueType parsing, glyph rasterizing, and PNG encoding. No Pillow, no network.
 
 ## Run it
 
